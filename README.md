@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hey, I'm Olwam 👋
 
-<!--
-**rrebldomakr/rrebldomakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year Computer Science student interested in software development, AI, systems, and building practical tech solutions.
 
-Here are some ideas to get you started:
+# About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Passionate about software engineering and problem-solving
+* Interested in backend systems, automation, and AI
+* Continuously improving my technical skills through projects and learning
+* Currently looking for opportunities to gain real-world industry experience
+
+# 🛠 Technical Skills
+
+* Python
+* Java
+* SQL
+* HTML & CSS
+* JavaScript
+* Git & GitHub
+* Database Systems
+* Object-Oriented Programming
+
+# 🚀 Projects
+
+### Student Task Manager
+
+Task management application focused on CRUD functionality and usability.
+
+### Database Management Project
+
+SQL-based system demonstrating database structure and data management concepts.
+
+### Portfolio Website
+
+Personal website showcasing projects, skills, and technical interests.
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/rrebldomakr
+* Email: olwamnhose5@gmail.com
