@@ -2,8 +2,7 @@
 
 🚀 **Final-Year Computer Science Student | Full-Stack & Systems Developer**  
 
-http://googleusercontent.com/map_location_reference/1
-Based in [South Africa](http://googleusercontent.com/map_location_reference/0), building optimized web platforms, diving into systems architecture, and exploring application security. Actively tracking down 2026 internship and graduate software engineering opportunities.
+Based in South Africa, building optimized web platforms, diving into systems architecture, and exploring application security. Actively tracking down 2026 internship and graduate software engineering opportunities.
 
 🌐 **Live Portfolio:** [rrebldomakr.github.io/My-Portfolio-Page/](https://rrebldomakr.github.io/My-Portfolio-Page/)
 
