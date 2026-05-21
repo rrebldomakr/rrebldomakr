@@ -1,40 +1,42 @@
-## Hey, I'm Olwam 👋
+# Hey, I'm Olwam 👋
 
-🎓 Third-year Computer Science student interested in software development, AI, systems, and building practical tech solutions.
+🚀 **Final-Year Computer Science Student | Full-Stack & Systems Developer**  
+Based in South Africa, building optimized web platforms, diving into systems architecture, and exploring application security. Actively tracking down 2026 internship and graduate software engineering opportunities.
 
-# About Me
+---
 
-* Passionate about software engineering and problem-solving
-* Interested in backend systems, automation, and AI
-* Continuously improving my technical skills through projects and learning
-* Currently looking for opportunities to gain real-world industry experience
+### 🛠️ Technical Capabilities
 
-# 🛠 Technical Skills
+*   **Languages:** Python, Java, C++, JavaScript (ES6+), HTML5 & CSS3
+*   **Databases & Systems:** PostgreSQL, MongoDB, SQL Server, Object-Oriented Design (OOD)
+*   **Tools & Workflows:** Git/GitHub, Node.js, Express, REST APIs, Linux Environments
 
-* Python
-* Java
-* SQL
-* HTML & CSS
-* JavaScript
-* Git & GitHub
-* Database Systems
-* Object-Oriented Programming
+---
 
-# 🚀 Projects
+### 🏗️ Targeted Project Deployments
 
-### Student Task Manager
+#### 📦 Lekker Exchange (Full-Stack C2C Platform)
+*   Engineered a Customer-to-Customer (C2C) trading engine tailored specifically for informal market ecosystems.
+*   Managed the end-to-end Software Development Life Cycle (SDLC) to deliver dynamic state routing and a resilient backend.
 
-Task management application focused on CRUD functionality and usability.
+#### 🔑 Authentication Bypass & APK Security Analysis
+*   Conducted deep-dive static analysis and code-auditing by decompiling Android APK application packages.
+*   Identified critical logic flaws, documented security vulnerabilities, and successfully implemented patched login flows.
 
-### Database Management Project
+#### 👻 DreadFolio (Immersive Retro Terminal)
+*   Designed a high-performance, dark-theme terminal interface utilizing vanilla JavaScript DOM manipulation.
+*   Implemented client-side input validation and custom data sanitization protocols to securely mitigate Cross-Site Scripting (XSS) injection vectors.
 
-SQL-based system demonstrating database structure and data management concepts.
+---
 
-### Portfolio Website
+### 🧪 System Focus Areas
+*   **Security Awareness:** Writing clean, defensive code and reverse-engineering applications to spot flaws before they're deployed.
+*   **Full-Stack Optimization:** Keeping dependencies light, assets lazy-loaded, and database queries indexed efficiently.
 
-Personal website showcasing projects, skills, and technical interests.
+---
 
-## 📫 Connect With Me
+### 📟 Secure Comms Link
 
-* GitHub: https://github.com/rrebldomakr
-* Email: olwamnhose5@gmail.com
+*   **Email:** [olwamnhose5@gmail.com](mailto:olwamnhose5@gmail.com)
+*   **WhatsApp Direct:** [Secure Link](https://wa.me/27813988827)
+*   **GitHub Base:** [github.com/rrebldomakr](https://github.com/rrebldomakr)
